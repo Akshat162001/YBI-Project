@@ -5,4 +5,5 @@ This Project contains the predicted price of House in Bengaluru made in Jupyter 
 <p>1. Clone/Fork the repository</p>
 <p>2. Run the project</p>
 
-<h3>Contributors are Always Welcome to contribute in this</h3>
+<h3>Contributors are Always Welcome to contribute in this Project..</h3>
+<h4> Happy Coding!!</h4>
